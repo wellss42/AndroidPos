@@ -39,6 +39,7 @@ class SecondFragment: Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        viewModel.getSampleData("11440001")
         setObserver()
         binding.retornar.setOnClickListener {
             findNavController().navigate(R.id.action_SecondFragment_to_MainFragment)

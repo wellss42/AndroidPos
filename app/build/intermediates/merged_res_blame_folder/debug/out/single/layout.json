@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.aulareview.app-mergeDebugResources-48:/layout/fragment_second.xml",
+        "source": "com.example.aulareview.app-main-51:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.aulareview.app-mergeDebugResources-48:/layout/fragment_main.xml",
+        "source": "com.example.aulareview.app-main-51:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.aulareview.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.aulareview.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aulareview.app-mergeDebugResources-48:/layout/content_main.xml",
+        "source": "com.example.aulareview.app-main-51:/layout/content_main.xml"
+    }
+]
