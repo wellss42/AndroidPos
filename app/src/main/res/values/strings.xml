@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AulaReview</string>
+    <string name="mainFragment">Digite o cep desejado</string>
+    <string name="secondFragment">second_fragment</string>
+    <string name="nextPage">retornar</string>
+    <string name="buscarCep">Buscar Cep</string>
+    <string name="nome">cep</string>
+    <string name="retornar">Retornar</string>
+    <string name="logradouro">logradouro</string>
+    <string name="complemento">Complemento</string>
+    <string name="bairro">bairro</string>
+    <string name="localidade">localidade</string>
+    <string name="uf">uf</string>
+</resources>
